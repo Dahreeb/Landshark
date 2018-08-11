@@ -1,6 +1,8 @@
 # Welcome to Landshark
 *Landshark is a public discord server that has been operational since March of this year.*
 
+![landshark logo](https://cdn.discordapp.com/attachments/421356782158479380/445383252115587072/unknown.png)
+
 ## Ranks
 We have a LOT of ranks that our users will be able to achieve. Our system is automated, but will be upgraded using a custom bot in the near future. Here is a list of achievable ranks!
 
