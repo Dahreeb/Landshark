@@ -1,11 +1,30 @@
 # Welcome to Landshark
-*Landshark is a public discord server that has been operational since March of this year.*
+*Landshark is a public discord server that has been operational since March of this year. We strive to have a friendly community that loves to interact each other.*
 
 ![landshark logo](https://cdn.discordapp.com/attachments/421356782158479380/445383252115587072/unknown.png)
+
+## Rules
+Staff are encouraged to give a warning before banning, but that is up to them. Here are some general rules.
+
+- Don't use any language that is discriminatory to a person's race, sexuality, or beliefs in *public text chats*. This includes racial slurs against either your race or another's race and sexual slurs (Context does not matter).
+- Don't talk or share images that could be construed as sexual. We don't care if you do this  to each other in private, just not in any of our public chats. This rule excludes NSFW chats. 
+- **Do not advertise links to other discord servers or non-affiliated websites without talking to the owner first.**
+- You may use #self-promotion to send YouTube videos, channels, twitch highlights, social media accounts, etc. ***(Exception(s): Discord Servers, Gaming Servers, Pornographic sites) You can only use it once a day.***
+- Using this discord as a means of ranking up on others is an immediate ban. This shouldn't be the only discord you are in, but if you wish to use this server for selfish means then you can just leave now.
+- Please do not troll excessively. A staff member will warn you if it gets too much.
+- If people are using the music bot to actually use it, please don't troll them and make it leave if they have queued songs they actually want to listen to. Wait your turn and be patient.
+- Do not intentionally start drama.
+- Do not try to avoid a ban. If you want to get unbanned, PM an admin first.
+- Please use the correct channel, or your message will be deleted.
+- Do not spam. This includes sending similar messages, characters, or strings in a rapid succession. This includes long lines of unnecessary capital letters also.
+- Do not leak personal information about another user in this chat without their consent.
+
+These rules can be modified, deleted, or amended without announcing it publicly. Therefore, we expect our users to check periodically.
 
 ## Ranks
 We have a LOT of ranks that our users will be able to achieve. Our system is automated, but will be upgraded using a custom bot in the near future. Here is a list of achievable ranks!
 
+  ### Automatic Ranks
 - **On Join** Lantern Shark ![#2D5E94](https://placehold.it/15/2D5E94/000000?text=+) 
 - **Lvl 1** Ghost Shark ![#8F8896](https://placehold.it/15/8F8896/000000?text=+) 
 - **Lvl 2** Pygmy Shark ![#FF5C94](https://placehold.it/15/FF5C94/000000?text=+) 
