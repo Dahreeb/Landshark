@@ -3,7 +3,7 @@
 
 ![landshark logo](https://cdn.discordapp.com/attachments/421356782158479380/445383252115587072/unknown.png)
 
-## Rules
+# Rules
 Staff are encouraged to give a warning before banning, but that is up to them. Here are some general rules.
 
 - Don't use any language that is discriminatory to a person's race, sexuality, or beliefs in *public text chats*. This includes racial slurs against either your race or another's race and sexual slurs (Context does not matter).
@@ -21,10 +21,10 @@ Staff are encouraged to give a warning before banning, but that is up to them. H
 
 These rules can be modified, deleted, or amended without announcing it publicly. Therefore, we expect our users to check periodically.
 
-## Ranks
+# Ranks
 We have a LOT of ranks that our users will be able to achieve. Our system is automated, but will be upgraded using a custom bot in the near future. Here is a list of achievable ranks!
 
-  ### Automatic Ranks
+  ## Automatic Ranks
   ***These roles are given out when a user hits the required level. XP is given out in intervals of 15 to 35 xp. You can only get awarded xp once a minute, to prevent the temptation to spam.***
   
   - **On Join** Lantern Shark ![#2D5E94](https://placehold.it/15/2D5E94/000000?text=+) 
@@ -59,13 +59,13 @@ We have a LOT of ranks that our users will be able to achieve. Our system is aut
   - **Lvl 29** Bull Shark ![#A50000](https://placehold.it/15/A50000/000000?text=+) 
   - **Lvl 30** Angel Shark ![#FF11CE](https://placehold.it/15/FF11CE/000000?text=+) 
 
-  ### Special Ranks
+  ## Special Ranks
   - The **Youtuber** rank is given out to people with over 1,000 subscribers, with their account connected.
   - The **Streamer** rank is give out to people with over 50 followers on twitch, with their account connected.
   - The **Leopard Shark** rank is given out by the owner. Do not ask for it.
   *The above ranks are immune to 24 hour cooldown in #self-promotion. This authority can be removed if user spams content or reposts old content. If you want to share videos multiple times, use #general*
   
-  ### Staff Ranks
+  ## Staff Ranks
   - **Megalodon** The dictator (Owner)
   - **Whale Shark** Discord Manager
   - **Great White Shark** Discord Admin
