@@ -11,7 +11,6 @@ We have a LOT of ranks that our users will be able to achieve. Our system is aut
 - **Lvl 4** Horn Shark ![#9CD2E8](https://placehold.it/15/9CD2E8/000000?text=+) 
 - **Lvl 5** Bignose Shark ![#80B29F](https://placehold.it/15/80B29F/000000?text=+) 
 - **Lvl 6** Reef Shark ![#4B678B](https://placehold.it/15/4B678B/000000?text=+) 
-
 - **Lvl 7** Sand Shark ![#FFDC90](https://placehold.it/15/FFDC90/000000?text=+) 
 - **Lvl 8** Frilled Shark ![#5F4B40](https://placehold.it/15/5F4B40/000000?text=+) 
 - **Lvl 9** Carpet Shark ![#993316](https://placehold.it/15/993316/000000?text=+)
